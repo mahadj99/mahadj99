@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Mahad]! 👋
 
 I am a cybersecurity and AI safety enthusiast currently exploring prompt injection vulnerabilities, LLM security, and defensive AI engineering.
 
